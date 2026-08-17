@@ -1,0 +1,18 @@
+main:
+  - title: "About"
+    url: /
+    children:
+      - title: "Research"
+        url: /research/
+      - title: "Leadership"
+        url: /leadership/
+      - title: "Outreach"
+        url: /outreach/
+      - title: "Mentoring"
+        url: /teaching/
+      - title: "AI"
+        url: /ai-integration/
+  - title: "Metrics"
+    url: /metrics/
+  - title: "CV"
+    url: /assets/cv.pdf
